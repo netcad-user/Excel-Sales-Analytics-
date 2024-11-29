@@ -1,4 +1,4 @@
-AtliQ_Hardware_Sales_And_Finance_Analysis_Excel
+**AtliQ_Hardware_Sales_And_Finance_Analysis_Excel**
 
 AtliQ Hardware has experienced remarkable growth and has decided to prepare a Profit & Loss (P&L) report for data analytics. This initiative aims to provide data-driven insights for comparing market competitors and addressing stakeholder queries across all critical areas, enabling informed and strategic decision-making.
 
@@ -14,7 +14,7 @@ I also break down P&L data by month to offer insights into short-term performanc
 
 Furthermore, I track net sales across various products, customers, and markets year-over-year. This in-depth data analysis supports the development of strategies that can significantly improve the company's performance.
 
-Analytical Skills:
+**Analytical Skills:**
 
 ➡ Developed dynamic pivot tables and charts for comprehensive data analysis.
 
